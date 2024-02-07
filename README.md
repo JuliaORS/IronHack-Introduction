@@ -1,7 +1,7 @@
 
 **JAVA CHALLENGES**
 
-This activity is focused on gaining experience by doing exercises. Remember, practice makes perfect so try to do your best to solve the following challenges.
+This activity is focused on gaining experience by doing exercises.
 
 **Challenge 1: Find Maximum**
 Write a method maximum that returns the largest integer in the list. You can assume that the list has at least one element.
